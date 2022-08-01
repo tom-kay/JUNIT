@@ -1,3 +1,4 @@
+
 package site.metacoding.junitproject;
 
 import org.springframework.boot.SpringApplication;
